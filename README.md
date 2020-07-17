@@ -1,11 +1,6 @@
-# alexflipnote.dev
-- Site: https://alexflipnote.dev
-- Usage: Information about myself
+# ninadev.gq
+- Site: https://ninadev.gq
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/3ee49847-679f-4841-91f8-23ff34224359/deploy-status)](https://app.netlify.com/sites/niina/deploys)
 
-This site proudly uses [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS) (since I made it, lol 🍺)
-
-## Licenses
-My code is under [GPL 3.0](https://github.com/AlexFlipnote/alexflipnote.github.io/blob/master/LICENSE) while my [avatar](https://alexflipnote.dev/branding) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-## Open-source
-Just download and do whatever you want with it, I don't really mind, but please give credits, thanks ❤
+## Credit
+[AlexFlipnote](https://github.com/AlexFlipnote)
